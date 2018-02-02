@@ -24,5 +24,6 @@ else:
 	print 'No results found'
 
 # To install chromaprint - brew install chromaprint
+# Or on ubuntu - sudo apt-get install libchromaprint-tools
 # CLIENT_APIKEY = 'tGyf3jN3PB'
 # USER_APIKEY = 'AxDKFSdxiv'
