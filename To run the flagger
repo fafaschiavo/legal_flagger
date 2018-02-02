@@ -1,0 +1,28 @@
+======================
+Pra rodar a bagaca:
+======================
+
+
+
+============== Instalar Chromaprint:
+MacOS:
+brew install chromaprint
+
+Linux Ubuntu:
+sudo apt-get install libchromaprint-tools
+
+============== Instalar Pandas:
+pip install pandas
+
+============== Instalar Google Search:
+pip install google
+
+============== Instalar SpotiPy:
+pip install spotipy
+
+============== Instalar PyAcoustid:
+pip install pyacoustid
+
+==============FFMPEG
+Verificar se o codec FFMPEG ja esta instalado, se nao estiver, instalar tambem
+https://www.ffmpeg.org/download.html
