@@ -26,3 +26,15 @@ pip install pyacoustid
 ==============FFMPEG
 Verificar se o codec FFMPEG ja esta instalado, se nao estiver, instalar tambem
 https://www.ffmpeg.org/download.html
+
+
+
+
+
+
+==============Instrucoes
+1- Colocar o arquivo copyright_flagger.py dentro da pasta onde estao as releases
+
+2- Navegar ateh essa pasta no terminal e rodar:
+
+python copyright_flagger.py
